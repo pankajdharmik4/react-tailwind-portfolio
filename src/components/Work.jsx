@@ -49,7 +49,7 @@ const Work = () => {
                             Netflix Clone (MERN STACK)
                         </span>
                         <div>
-                            <a href="https://netflix-clone1999.netlify.app/" target='_blank'>
+                            <a href="https://clone1999.netlify.app" target='_blank'>
                                 <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Demo</button>
                             </a>
                             <a href="https://github.com/pankajdharmik4/netflix-clone" target='_blank'>
